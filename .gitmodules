@@ -3,4 +3,4 @@
 	url = https://github.com/AndrewI997/client.git
 [submodule "server"]
 	path = server
-	url = ./server
+	url = https://github.com/AndrewI997/server.git
