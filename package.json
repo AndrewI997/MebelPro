@@ -1,6 +1,7 @@
 {
   "name": "mebelpro",
   "packageManager": "yarn@3.5.0",
+  "private": true,
   "license": "MIT",
   "workspaces": [
     "client",
